@@ -1,0 +1,97 @@
+*{
+    margin: 0ex;
+    padding: 0px;
+}
+.a{
+     color: black; 
+     background-color: #20B2AA;
+     margin-top: 20px;
+     margin-bottom: 13px;
+     margin-right: 800px;
+     margin-left: 40px;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-left: 10px;
+     padding-right: 100px;
+     border: 2px solid black;
+}
+.b{
+     color: black; 
+     background-color: #d1722e;
+     margin-top: 10px;
+     margin-bottom: 13px;
+     margin-right: 750px;
+     margin-left: 85px;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-left: 10px;
+     padding-right: 100px;
+     border: 2px solid black;
+}
+.c{
+     color: black; 
+     background-color: #9c5ebb;
+     margin-top: 10px;
+     margin-bottom: 13px;
+     margin-right: 700px;
+     margin-left: 120px;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-left: 10px;
+     padding-right: 100px;
+     border: 2px solid black;
+}
+.d{
+     color: black; 
+     background-color: #9da7a1;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-right: 600px;
+     margin-left: 40px;
+     padding-top: 09px;
+     padding-bottom: 09px;
+     padding-left: 10px;
+     padding-right: 100px;
+     border: 5px double rgb(226, 97, 11);
+     font-weight: 600;
+     font-size: 30px;
+}
+.e{
+    color: rgb(255, 255, 255 ,1); 
+    background-color: #2d3146;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    margin-right: 700px;
+    margin-left: 120px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 100px;
+    border: 2px solid black;
+}
+.f{
+    color: black; 
+    background-color: #eb5241;
+    margin-top: 10px;
+    margin-bottom: 13px;
+    margin-right: 750px;
+    margin-left: 85px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 10px;
+    padding-right: 100px;
+    border: 2px solid black;
+}
+.g{
+     color: black; 
+     background-color: rgb(38, 199, 137);
+     margin-top: 10px;
+     margin-bottom: 10px;
+     margin-right: 800px;
+     margin-left: 40px;
+     padding-top: 8px;
+     padding-bottom: 8px;
+     padding-left: 10px;
+     padding-right: 100px;
+     border: 2px solid black;
+}
